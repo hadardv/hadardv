@@ -1,4 +1,6 @@
-
+- 👋 Hi, I’m Hadar David
+- 👀 I’m interested in Software Development
+- 🌱 I’m currently learning Software Engineering
 - 📫 Reach me at hadardv14@gmail.com 
 
 <!---
